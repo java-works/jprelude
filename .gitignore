@@ -1,12 +1,8 @@
-*.class
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+/.idea
+/jprelude-parent.iml
+/jprelude-core/jprelude-core.iml
+/jprelude-core/target/
+/jprelude-core/nbproject/private/
+/jprelude-csv/jprelude-csv.iml
+/jprelude-csv/target/
+/jprelude-csv/nbproject/private/
